@@ -1,0 +1,21 @@
+{
+  "name": "suplementosuvm",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+  "start": "node src/main.js",
+  "dev": "nodemon src/main.js"
+  },
+  "keywords": [],
+  "author": "CRUD de suplementos, vitaminas y productos de salud con Node, Express y MongoDB",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "mongoose": "^9.1.6",
+    "nodemon": "^3.1.11"
+  }
+}
