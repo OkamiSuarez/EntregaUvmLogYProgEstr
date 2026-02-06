@@ -41,15 +41,14 @@ Crear base de datos suplementos y colección productos (o dejar que se creen aut
 
 Entrar a la colección productos → botón IMPORT DATA → seleccionar productos.json → formato JSON.
 
-▶️ Cómo ejecutar el proyecto
+##▶️ Cómo ejecutar el proyecto
 ### 1. Iniciar el backend
 Dependiendo de cómo esté configurado el package.json:
 
-bash
-# Desarrollo (con nodemon)
+#### Desarrollo (con nodemon)
 npm run dev
 
-# o producción simple
+#### producción simple
 npm start
 El servidor quedará escuchando en http://localhost:8080 (o el puerto que hayas definido en PORT).
 
