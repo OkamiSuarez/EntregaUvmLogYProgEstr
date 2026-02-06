@@ -1,0 +1,51 @@
+[
+    {
+        "activo": true,
+        "imagen": "https://static.netshoes.com.br/produtos/whey-growth-80-proteina-concentrada-sabor-chocolate-1kg/99/BLX-0035-799/BLX-0035-799_zoom1.jpg?ts=1663972955",
+        "stock": 20,
+        "descripcion": "Proteína whey sabor chocolate 1kg",
+        "precio": 750.5
+    },
+    {
+        "activo": true,
+        "imagen": "https://tse4.mm.bing.net/th/id/OIP.hZcCU4dAlgo7YkiaraI_dwHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+        "stock": 15,
+        "descripcion": "Proteína whey sabor vainilla 1kg",
+        "precio": 739.9
+    },
+    {
+        "activo": true,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_841940-MLU73212558723_122023-O.webp",
+        "stock": 10,
+        "descripcion": "Proteína isolate sabor fresa 900g",
+        "precio": 899.0
+    },
+    {
+        "activo": true,
+        "imagen": "https://tse1.mm.bing.net/th/id/OIP.ET69V5z27nrF1022pSzYzAHaJk?rs=1&pid=ImgDetMain&o=7&rm=3",
+        "stock": 25,
+        "descripcion": "Creatina monohidratada 300g",
+        "precio": 499.0
+    },
+    {
+        "activo": true,
+        "imagen": "https://tse1.mm.bing.net/th/id/OIP.ifJdn27ui2uX6mJCLYgFTQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+        "stock": 18,
+        "descripcion": "Creatina micronizada 500g",
+        "precio": 699.0
+    },
+    {
+        "activo": true,
+        "imagen": "https://a-static.mlcdn.com.br/800x560/multivitaminico-az-22-vitaminas-e-minerais-diario-500mg-90-capsulas-ecomev/vivanaturalsuplementos/sup-emv-az2/190197e9039f3b83d23e4d08e3ee268d.jpeg",
+        "stock": 30,
+        "descripcion": "Multivitamínico diario 90 cápsulas",
+        "precio": 320.0
+    },
+    {
+        "activo": true,
+        "imagen": "https://tse3.mm.bing.net/th/id/OIP.hF3uMpbPwzkbPsRdjxgOAgHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+        "stock": 22,
+        "descripcion": "Omega 3 1000mg 100 cápsulas",
+        "precio": 380.0
+    }
+]

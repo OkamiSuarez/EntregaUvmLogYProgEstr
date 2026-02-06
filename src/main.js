@@ -12,7 +12,7 @@ const main = async () => {
 
     const MONGODB_URI = process.env.MONGODB_URI || 'mongodb://127.0.0.1:27017/suplementos';
 
-    mongoose.connect(MONGODB_URI) // aquí luego pegamos la URI de Compass
+    mongoose.connect(MONGODB_URI) 
         .then(() => console.log('Conexion exitosa a la DB'))
         .catch((error) => {
             console.log('Hay un problema con la DB', error);
