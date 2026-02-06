@@ -20,6 +20,8 @@ git clone https://github.com/OkamiSuarez/EntregaUvmLogYProgEstr.git
 cd EntregaUvmLogYProgEstr
 
 2. Instalar dependencias
+
+```
 bash
 npm install
 
