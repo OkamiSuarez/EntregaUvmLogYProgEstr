@@ -17,6 +17,7 @@ Consiste en un render de productos de suplementos, con CRUD básico sobre una ba
 ### 1. Clonar el repositorio
 
 git clone https://github.com/OkamiSuarez/EntregaUvmLogYProgEstr.git
+
 cd EntregaUvmLogYProgEstr
 
 ### 2. Instalar dependencias
@@ -41,7 +42,7 @@ Crear base de datos suplementos y colección productos (o dejar que se creen aut
 
 Entrar a la colección productos → botón IMPORT DATA → seleccionar productos.json → formato JSON.
 
-##▶️ Cómo ejecutar el proyecto
+▶️ Cómo ejecutar el proyecto
 ### 1. Iniciar el backend
 Dependiendo de cómo esté configurado el package.json:
 
